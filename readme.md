@@ -16,4 +16,4 @@ Other operations include.
 
 ## Client
 
-Built and was supposed to be deployed upon approval by DPR - Department of Petroleum Resources in Nigeria. 
+Built and was supposed to be deployed upon approval by the client and designated bodies.
