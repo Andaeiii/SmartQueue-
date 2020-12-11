@@ -1,0 +1,4 @@
+[24-Sep-2018 16:05:34 Etc/GMT] PHP Warning:  require(/home/tamarazi/public_html/fuelapp/public/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/tamarazi/public_html/fuelapp/public/index.php on line 22
+[24-Sep-2018 16:05:34 Etc/GMT] PHP Warning:  require(/home/tamarazi/public_html/fuelapp/public/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/tamarazi/public_html/fuelapp/public/index.php on line 22
+[24-Sep-2018 16:05:34 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/tamarazi/public_html/fuelapp/public/../bootstrap/autoload.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/tamarazi/public_html/fuelapp/public/index.php on line 22
+[28-Sep-2018 19:47:30 UTC] PHP Fatal error:  Class 'App\Http\Controllers\BaseController' not found in /home/tamarazi/public_html/fuelapp/app/Http/Controllers/ApiController.php on line 14
