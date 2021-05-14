@@ -13,7 +13,7 @@ Other operations include.
 - GPS location tracker and monitoring.
 - communication with the central station application to manage logs
 
-## Client
+## Server
 
 Server-side Application Developed using Laravel/PHP and SQL Databaea server.. while Client side Application developed using Ionic.
 
